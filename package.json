@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/fuadguluzade/liri-node-app-fuad-guluzade/issues"
   },
-  "homepage": "https://github.com/fuadguluzade/liri-node-app-fuad-guluzade#readme"
+  "homepage": "https://github.com/fuadguluzade/liri-node-app-fuad-guluzade#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0"
+  }
 }
