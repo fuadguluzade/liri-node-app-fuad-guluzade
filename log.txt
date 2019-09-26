@@ -73,3 +73,60 @@ Language: English
 Plot: Three former parapsychology professors set up shop as a unique ghost removal service. 
 Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
 ***************************************************************************************************************
+called <concert-this madonna> at <Wed Sep 25 2019 21:29:34 GMT-0700> with following result
+
+Artist: Madonna 
+Venue: BAM (Brooklyn Academy of Music) 
+Where: Brooklyn, United States 
+When: 09/26/2019
+***************************************************************************************************************
+called <movie-this titanic> at <Wed Sep 25 2019 21:30:45 GMT-0700> with following result
+
+Title: Titanic 
+Year: 1997 
+IMDB rating: 7.8/10 
+Rotten Tomatoes rating: 89% 
+Country: USA 
+Language: English, Swedish, Italian 
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. 
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+***************************************************************************************************************
+called <spotify-this-song billy jean> at <Wed Sep 25 2019 21:31:43 GMT-0700> with following result
+
+Artist(s): The Thrillers 
+Song's name: Billy Jean 
+Preview Link: https://p.scdn.co/mp3-preview/43994c7b115c252e532b807d7bcf850a9067a1d1?cid=3bc359e013634821a395f994cf6dc817 
+Album: Ladies Night
+***************************************************************************************************************
+called <do-what-it-says> at <Wed Sep 25 2019 21:32:32 GMT-0700> with following result
+
+Title: Titanic 
+Year: 1997 
+IMDB rating: 7.8/10 
+Rotten Tomatoes rating: 89% 
+Country: USA 
+Language: English, Swedish, Italian 
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. 
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+***************************************************************************************************************
+called <do-what-it-says> at <Wed Sep 25 2019 21:37:27 GMT-0700> with following result
+
+Artist: Justin 
+Venue: 1252 Tapas Bar & Kitchen 
+Where: The Woodlands, United States 
+When: 10/04/2019
+***************************************************************************************************************
+called <do-what-it-says> at <Wed Sep 25 2019 21:38:38 GMT-0700> with following result
+
+Artist: Tarkan 
+Venue: Harbiye Cemil Topuzlu Açıkhava 
+Where: Istanbul, Turkey 
+When: 09/26/2019
+***************************************************************************************************************
+called <do-what-it-says> at <Wed Sep 25 2019 21:43:55 GMT-0700> with following result
+
+Artist: Thomas Rhett 
+Venue: Bon Secours Wellness Arena 
+Where: Greenville, United States 
+When: 10/03/2019
+***************************************************************************************************************
