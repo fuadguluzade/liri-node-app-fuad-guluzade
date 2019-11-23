@@ -1,4 +1,4 @@
-# liri-node-app
+## liri-node-app
 This is the command line application which takes user input and returns info about movies, artists and songs the user requests.
 App takes 2 arguments in the following format:
 <command> <request>
