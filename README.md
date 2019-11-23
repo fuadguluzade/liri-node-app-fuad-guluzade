@@ -37,5 +37,5 @@ Your app should now be running on <http://localhost:3000>.
 
 ## Built With
 
-*[Javascript] 
-*[Spotify API]
+- Javascript
+- Spotify API
