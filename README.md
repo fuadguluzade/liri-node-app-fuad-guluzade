@@ -9,13 +9,33 @@ movie-this : takes movie name a <request>
 do-what-it-says : takes <command> and <request> from text file in app folder,named random.txt.
 If request formed coorectly, answer is printed to the console and log.txt file, which is located also in app folder.
 
-![concert-this](./images/s1.png)
-![movie-this](./images/s2.png)
-![spotify-this-song](./images/s3.png)
-![do-what-it-says](./images/s4.png)
+## Installing
 
-Link to the app: [on GitHub](https://github.com/fuadguluzade/liri-node-app-fuad-guluzade)
+Clone the project
+
+```
+https://github.com/fuadguluzade/liri-node-app-fuad-guluzade.git
+```
+
+Start by installing front and backend dependencies. While in project's directory, run the following command:
+
+```
+npm install
+```
+
+This should install node modules within the server and the client folder.
+
+After both installations complete, run the following command in your terminal:
+
+```
+npm start
+```
+
+Your app should now be running on <http://localhost:3000>.
 
 
-Application created using by these technologies: Javascript and axios, fs, moment, spotify npm packages.
 
+## Built With
+
+*Javascript 
+*Spotify API
